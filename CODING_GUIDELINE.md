@@ -7,5 +7,7 @@ and standarization.
 3. Use Standard colors only.
 4. Don't use class components.
 5. Once you are done with your work , raise the PR to develop(branch).
+6. Always use colors from colors.ts .
+7. For any task always create a new branch
 
 Any suggestions are welcome.
