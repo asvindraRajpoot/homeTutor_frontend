@@ -10,9 +10,9 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": ["react", "typescript"],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "no-undef": "error"
+    "typescript/no-unused-vars": "warn"
   }
 }
